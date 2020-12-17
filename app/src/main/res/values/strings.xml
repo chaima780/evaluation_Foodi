@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Foodi</string>
+    <string name="btn_connect">Connect</string>
+    <string name="btn_reserve">Reserve</string>
+    <string name="verify_inputs">Verify your inputs</string>
+    <string name="valid_inputs">Valid inputs</string>
+    <string name="text_connect">Hello ! Connect here </string>
+    <string name="hint_mail">Enter your mail</string>
+    <string name="hint_pass">Enter your password</string>
+    <string name="text_list">Texte</string>
+    <string name="details_window"> Table 1 to table 10 is next to the window and gives a view on the terrace  </string>
+    <string name="details_terrasse"> Table 11 to table 20 gives a beautiful view on the sea </string>
+    <string name="details_wall"> Table 21 to table 30 is next to the wall  </string>
+
+
+</resources>
